@@ -51,7 +51,7 @@ public class Browser {
 		driver.findElement(By.id("password")).sendKeys(PASSWORD);
 		
 		driver.findElement(By.id("login-button")).click();
-		
+		//changes made in git hub
 
 	}
 
